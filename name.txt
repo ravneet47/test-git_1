@@ -1,8 +1,15 @@
 Ravneet
 Jai
 Shubhanshu
+<<<<<<< HEAD
 A
 B
 C
 D
 
+=======
+Prateek
+E
+F
+G
+>>>>>>> 4d686c1... edited name.txt
